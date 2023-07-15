@@ -15,9 +15,9 @@
 
 ## About Me
 
-Hi, I'm user B, a passionate developer who loves to create and learn new things. I have experience in:
+Hi, I'm Mohammadreza Farkhnodeh, a passionate developer who loves to create and learn new things. I have experience in:
 
-- Django, Python, FastAPI, Linux (first level)
-- Docker, Celery, Go, JavaScript (second level)
+- Django, Python, FastAPI, Linux, 
+- Docker, Celery, Go, JavaScript, react
 
 I enjoy working on web development, data science, and automation projects.
